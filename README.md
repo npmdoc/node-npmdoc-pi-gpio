@@ -1,6 +1,6 @@
 # npmdoc-pi-gpio
 
-#### api documentation for  [pi-gpio (v0.0.8)](https://github.com/rakeshpai/pi-gpio)  [![npm package](https://img.shields.io/npm/v/npmdoc-pi-gpio.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pi-gpio) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pi-gpio.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pi-gpio)
+#### basic api documentation for  [pi-gpio (v0.0.8)](https://github.com/rakeshpai/pi-gpio)  [![npm package](https://img.shields.io/npm/v/npmdoc-pi-gpio.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pi-gpio) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pi-gpio.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pi-gpio)
 
 #### A simple node.js-based GPIO helper for the Raspberry Pi
 
@@ -64,7 +64,8 @@
         "gpio",
         "simple"
     ],
-    "version": "0.0.8"
+    "version": "0.0.8",
+    "bin": {}
 }
 ```
 
